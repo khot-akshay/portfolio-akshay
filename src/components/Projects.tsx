@@ -47,13 +47,13 @@ description : 'Developed the official NeuroERP marketing website using Next.js a
     technologies: ['Next.js', 'TypeScript',' Tailwind CSS','Responsive'],
     live: 'https://neuroerp.com',
   },
-   {
-    title: 'Portfolio Website',
-    description: 'Modern portfolio website built with Next.js, Material-UI, and Framer Motion featuring smooth animations and responsive design.',
-    image: '/porfolio.png',
-    technologies: ['Next.js', 'TypeScript', 'Material-UI', 'Framer Motion'],
-    live: 'https://harshali-portfolio-xi.vercel.app/',
-  },
+  //  {
+  //   title: 'Portfolio Website',
+  //   description: 'Modern portfolio website built with Next.js, Material-UI, and Framer Motion featuring smooth animations and responsive design.',
+  //   image: '/porfolio.png',
+  //   technologies: ['Next.js', 'TypeScript', 'Material-UI', 'Framer Motion'],
+  //   live: 'https://harshali-portfolio-xi.vercel.app/',
+  // },
   // {
   //   title: 'AI Task Manager',
   //   description: 'Smart task management application that uses AI to prioritize tasks, suggest optimal scheduling, and provide productivity insights. Includes natural language processing for task input.',

@@ -136,7 +136,7 @@ const       Hero = () => {
                 variant="contained"
                 size="large"
                 startIcon={<Download />}
-                href="/Harshali-sonawane-Resume.pdf"
+                href="/Akshay-Khot Resume.pdf"
                 download
               >
                 Download CV
@@ -160,8 +160,8 @@ const       Hero = () => {
               animate={{ opacity: 1 }}
               transition={{ delay: 4.2 }}
             >
-              <IconLink href="https://github.com/Harshali-k" icon={<GitHub />} />
-              <IconLink href="https://www.linkedin.com/in/harshali-khamkar/" icon={<LinkedIn />} />
+              {/* <IconLink href="https://github.com/Harshali-k" icon={<GitHub />} /> */}
+              <IconLink href="https://www.linkedin.com/in/akshay-khot-7a154a287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" icon={<LinkedIn />} />
             </MotionStack>
           </MotionBox>
 
