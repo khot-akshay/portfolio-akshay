@@ -118,8 +118,7 @@ const       Hero = () => {
                   textShadow: isDark ? '0 0 20px rgba(144, 202, 249, 0.2)' : 'none',
                 }}
               >
-                Passionate about creating innovative web solutions with modern technologies.
-                Specializing in building responsive, user-friendly applications with clean code and optimal performance.
+                Passionate Frontend Developer with 1.6+ years of experience in creating innovative web solutions using modern technologies. Specialized in building responsive, user-friendly applications with clean code, scalable architecture, and optimal performance.
               </Typography>
             </motion.div>
 
