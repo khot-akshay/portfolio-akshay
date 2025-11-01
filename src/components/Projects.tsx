@@ -47,13 +47,13 @@ description : 'Developed the official NeuroERP marketing website using Next.js a
     technologies: ['Next.js', 'TypeScript',' Tailwind CSS','Responsive'],
     live: 'https://neuroerp.com',
   },
-  //  {
-  //   title: 'Portfolio Website',
-  //   description: 'Modern portfolio website built with Next.js, Material-UI, and Framer Motion featuring smooth animations and responsive design.',
-  //   image: '/porfolio.png',
-  //   technologies: ['Next.js', 'TypeScript', 'Material-UI', 'Framer Motion'],
-  //   live: 'https://harshali-portfolio-xi.vercel.app/',
-  // },
+   {
+    title: 'Vivan Groop Warehouse Website',
+description:"Built and deployed a modern, responsive website for Vedanta Warehouse using Next.js, Tailwind CSS, and Supabase, hosted on Vercel. The platform includes dynamic pages for company projects, EPC solutions, and contact information. Integrated Contact and Career forms with a Supabase backend for secure and real-time data handling. Ensured seamless user experience through SEO optimization, fast load times, and cross-device responsiveness. Designed reusable components and maintained clean, modular code to support future scalability and easy maintenance.",  
+  image: '/vivan.png',
+    technologies: ['Next.js', 'TypeScript', 'Tailwind CSS', 'Framer Motion'],
+    live: 'https://vedanta-warehouse-website.vercel.app/',
+  },
   // {
   //   title: 'AI Task Manager',
   //   description: 'Smart task management application that uses AI to prioritize tasks, suggest optimal scheduling, and provide productivity insights. Includes natural language processing for task input.',
