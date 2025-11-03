@@ -33,13 +33,13 @@ description:'Built a full-featured online booking platform for sports turfs and 
     live: 'https://meganotify.com',
   },
    
-   {
-    title: 'Crunchy Bite',
-    description: 'Handled Next.js development for Crunchy Bite, incorporating animations and designing a fully responsive layout.',
-    image: '/crunchy-bite.png',
-    technologies: ['Next.js', 'TypeScript','Redux','Material-UI','Responsive'],
-    live: 'https://crunchy-bite.vercel.app/',
-  },
+  //  {
+  //   title: 'Crunchy Bite',
+  //   description: 'Handled Next.js development for Crunchy Bite, incorporating animations and designing a fully responsive layout.',
+  //   image: '/crunchy-bite.png',
+  //   technologies: ['Next.js', 'TypeScript','Redux','Material-UI','Responsive'],
+  //   live: 'https://crunchy-bite.vercel.app/',
+  // },
    {
     title: 'NeuroERP Website',
 description : 'Developed the official NeuroERP marketing website using Next.js and Tailwind CSS, ensuring a modern, responsive, and fast user experience. Designed and implemented SEO-optimized landing pages to showcase ERP features and pricing. Built reusable UI components and implemented SSR for better SEO and performance. Integrated animations with Framer Motion, optimized images for speed, and deployed via Vercel with CI/CD. Collaborated with design and marketing teams to deliver a polished, production-ready website.',
